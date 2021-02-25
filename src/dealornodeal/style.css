@@ -1,0 +1,55 @@
+.money-table {
+    -fx-background-color: #000000;
+}
+.money-table-label {
+    -fx-alignment: center-right;
+    -fx-font-weight: bold;
+    -fx-padding: 5px;
+    -fx-border-color: #000000;
+    -fx-background-color: #F7DC6F;
+}
+
+.cases {
+    -fx-background-image: url("../assets/case.png");
+    -fx-background-color: black;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 100 60;
+    -fx-background-position: center center;
+}
+
+.instruction-label {
+    -fx-font-weight: bold;
+}
+
+.player-case {
+    -fx-background-image: url("../assets/case-bigger.png");
+    -fx-background-color: black;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 150 110;
+    -fx-background-position: center center;
+}
+
+.deal-button {
+    -fx-background-color: #00ff55;
+    -fx-background-radius: 60px;
+}
+
+.no-deal-button {
+    -fx-background-color: #ff3333;
+    -fx-background-radius: 60px;
+}
+
+.trade-button {
+    -fx-background-image: url("../assets/case.png");
+    -fx-background-color: rgba(0,0,0,0.5);
+    -fx-background-repeat: stretch;
+    -fx-background-size: 150 110;
+    -fx-background-position: center center;
+}
+
+.open-case {
+    -fx-background-image: url("../assets/case.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 300 240;
+    -fx-background-position: center center;
+}
